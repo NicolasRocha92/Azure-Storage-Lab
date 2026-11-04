@@ -34,31 +34,31 @@ This tutorial documents my hands-on practice using the Microsoft Azure portal to
 
 I opened **Resource groups** in the Azure portal to begin navigating the cloud environment. The screenshot shows the resource groups page before any resource groups are displayed.
 
-![Azure Resource Groups](01.png)
+![Azure Resource Groups](01-Screenshot%202026-10-11%20094128.png)
 
 ### Step 2: Locate the lab resources
 
 I opened the **Lab-User** resource group and viewed its resources, including the storage account used for this exercise.
 
-![Lab resource group and storage account](02.png)
+![Lab Resources](02-Screenshot%202026-10-11%20095437.png)
 
 ### Step 3: View the blob container
 
 Inside the storage account, I navigated to the **azuretest** container and located the uploaded text file, **Azure-lab.txt**.
 
-![Azure blob container with text file](03.png)
+![Azure Blob Container](03-Screenshot%202026-10-11%20101120.png)
 
 ### Step 4: Open the text file in the Azure portal
 
 I selected **Azure-lab.txt** and opened the **Edit** tab to view its contents. The file initially displayed `Hello`.
 
-![Azure text file before editing](04.png)
+![Text File Before Editing](04-Screenshot%202026-10-11%20102035.png)
 
 ### Step 5: Edit the file contents
 
 I added `Goodbye` beneath `Hello` in the text editor. The final screenshot shows both lines in the editor. This screenshot documents the edit; it does not independently confirm that the change was saved.
 
-![Azure text file after editing](05.png)
+![Text File After Editing](05-Screenshot%202026-10-11%20102207.png)
 
 ## Skills Demonstrated
 
