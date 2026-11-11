@@ -48,7 +48,7 @@ In this lab, I worked with Microsoft Azure Blob Storage to organize cloud resour
 
 **Expected result:** A resource group named `Lab-User` is available for the lab resources.
 
-!\[Azure portal Resource groups page before creating the lab resource group](01-Screenshot%202026-10-11%20094128.png)
+![Azure portal Resource groups page before creating the lab resource group](01-Screenshot%202026-10-11%20094128.png)
 
 ### Step 2 — Create a Storage Account
 
@@ -63,7 +63,7 @@ In this lab, I worked with Microsoft Azure Blob Storage to organize cloud resour
 
 **Expected result:** The storage account appears inside the `Lab-User` resource group.
 
-!\[Lab-User resource group showing its storage account](02-Screenshot%202026-10-11%20095437.png)
+![Lab-User resource group showing its storage account](02-Screenshot%202026-10-11%20095437.png)
 
 ### Step 3 — Create a Blob Container
 
@@ -92,7 +92,7 @@ In this lab, I worked with Microsoft Azure Blob Storage to organize cloud resour
 
 **Expected result:** `Azure-lab.txt` is listed in the container.
 
-!\[azuretest container displaying the uploaded Azure-lab.txt blob](03-Screenshot%202026-10-11%20101120.png)
+![azuretest container displaying the uploaded Azure-lab.txt blob](03-Screenshot%202026-10-11%20101120.png)
 
 ### Step 5 — Open the Text File
 
@@ -102,7 +102,7 @@ In this lab, I worked with Microsoft Azure Blob Storage to organize cloud resour
 
 **Expected result:** The file opens in the portal's text editor.
 
-!\[Azure-lab.txt opened in the Azure portal editor with Hello](04-Screenshot%202026-10-11%20102035.png)
+![Azure-lab.txt opened in the Azure portal editor with Hello](04-Screenshot%202026-10-11%20102035.png)
 
 ### Step 6 — Edit and Save the File
 
@@ -118,7 +118,7 @@ In this lab, I worked with Microsoft Azure Blob Storage to organize cloud resour
 
 **Expected result:** The editor contains both lines and the save completes without an error.
 
-!\[Azure-lab.txt editor showing Hello and Goodbye](05-Screenshot%202026-10-11%20102207.png)
+![Azure-lab.txt editor showing Hello and Goodbye](05-Screenshot%202026-10-11%20102207.png)
 
 ### Step 7 — Verify the Updated File
 
