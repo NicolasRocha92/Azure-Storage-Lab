@@ -53,7 +53,7 @@ This lab explores Azure Blob Storage through the Azure portal. It explains how t
 
 **Original screenshot 1:** This shows the Resource groups page with no groups displayed at that moment, **before** the later screenshot of `Lab-User`.
 
-!\[Original screenshot 1: Azure Resource groups page with no resource groups displayed](01-Screenshot%202026-10-11%20094128.png)
+![Original screenshot 1: Azure Resource groups page with no resource groups displayed](01-Screenshot%202026-10-11%20094128.png)
 
 ### Step 2 — Create or Open a Storage Account
 
@@ -69,7 +69,7 @@ This lab explores Azure Blob Storage through the Azure portal. It explains how t
 
 **Original screenshot 2:** This shows `Lab-User` and a storage account in its resources list; it does not show the account-creation wizard.
 
-!\[Original screenshot 2: Lab-User resource group containing a storage account](02-Screenshot%202026-10-11%20095437.png)
+![Original screenshot 2: Lab-User resource group containing a storage account](02-Screenshot%202026-10-11%20095437.png)
 
 ### Step 3 — Create or Open a Blob Container
 
@@ -98,7 +98,7 @@ Hello
 
 **Original screenshot 3:** This shows the container with a text blob already listed. It documents the result, not the upload action itself.
 
-!\[Original screenshot 3: azuretest blob container with text file listed](03-Screenshot%202026-10-11%20101120.png)
+![Original screenshot 3: azuretest blob container with text file listed](03-Screenshot%202026-10-11%20101120.png)
 
 ### Step 5 — Open the Text Blob in the Portal Editor
 
@@ -114,7 +114,7 @@ Hello
 
 **Original screenshot 4:** The blob editor shows `Hello` before the second line is added.
 
-!\[Original screenshot 4: Azure blob editor displaying Hello](04-Screenshot%202026-10-11%20102035.png)
+![Original screenshot 4: Azure blob editor displaying Hello](04-Screenshot%202026-10-11%20102035.png)
 
 ### Step 6 — Edit and Save the Blob
 
@@ -133,7 +133,7 @@ Goodbye
 
 **Original screenshot 5:** The editor shows both lines, but the image alone does **not** prove that the Save operation succeeded.
 
-!\[Original screenshot 5: Azure blob editor displaying Hello and Goodbye](05-Screenshot%202026-10-11%20102207.png)
+![Original screenshot 5: Azure blob editor displaying Hello and Goodbye](05-Screenshot%202026-10-11%20102207.png)
 
 ### Step 7 — Verify the Saved Change
 
