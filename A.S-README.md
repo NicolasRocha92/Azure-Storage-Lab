@@ -10,8 +10,6 @@
 
 This lab explores Azure Blob Storage through the Azure portal. It explains how to prepare a resource group and storage account, create a container, upload a text file, edit the file, and check whether the change was saved. The five original screenshots document selected stages of my hands-on work; setup steps without screenshots are included so a reader can reproduce the entire workflow.
 
-> \*\*Screenshot accuracy:\*\* The first screenshot shows an empty resource-group list; the second shows the `Lab-User` resource group with a storage account; the third shows a container containing a text blob; and the final two show the blob editor before and after the text was changed. The screenshots do \*\*not\*\* separately show creation of the storage account, creation of the container, the initial file upload, or a successful save-and-reopen verification.
-
 ## Environment and Technologies
 
 * Microsoft Azure portal and an Azure subscription
