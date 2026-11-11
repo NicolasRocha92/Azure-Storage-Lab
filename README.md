@@ -23,8 +23,8 @@ In this lab, I worked with Microsoft Azure Blob Storage to organize cloud resour
 * An Azure account with an active subscription
 * Permission to create Azure resources and upload or edit blobs (for example, the appropriate Azure management permissions and the **Storage Blob Data Contributor** role)
 * A web browser and a local text editor
-
-> \\\*\\\*Note:\\\*\\\* Azure resources can incur charges. Choose settings appropriate to your subscription and remove unused lab resources afterward.
+  
+> **Note:** Azure resources can incur charges. Choose settings appropriate to your subscription and remove unused lab resources afterward.
 
 ## Lab Objectives
 
